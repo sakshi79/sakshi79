@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sakshi79
-- 👀 I’m interested in Soft Computing, Automation, and Additive Manufacturing
-- 🌱 I’m currently learning to apply soft computing techniques in the mechanical engineering sector 
-- 💞️ I’m looking to collaborate on applications of ML techniques in manufacturing and automobiles.
+- 👀 I’m interested in Computer Vision, Robotics, and Deep Reinforcement Learning
+- 🌱 I’m currently learning to apply deep learning techniques in the autonomous driving scenario
+- 💞️ I’m looking to collaborate on DRL and autonomous driving projects and competitions.
 - 📫 How to reach me: https://www.linkedin.com/in/sakshi-bhatia-a5a446178/
 
 <!---
